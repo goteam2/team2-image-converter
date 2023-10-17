@@ -1,4 +1,4 @@
-# SVG Converter
+# Team2 Image Converter
 
 This is a command-line tool for converting image files to another format. It uses the [Sharp](https://sharp.pixelplumbing.com/) library for image processing.
 
